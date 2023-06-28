@@ -2,7 +2,7 @@
 
 int main(int argc, char *argv[])
 {
-	printf("Goodby Telechips!\n");
+	printf("Goodbye!\n");
 
 	return 0;
 }
