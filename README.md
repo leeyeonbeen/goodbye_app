@@ -1,1 +1,1 @@
-# goodbye_telechips
+# goodbye_app
